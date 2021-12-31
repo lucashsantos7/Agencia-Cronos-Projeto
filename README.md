@@ -15,6 +15,10 @@ A Agência Cronos contratou vocês para o desenvolvimento do site institucional,
 
 Link para github: https://github.com/fronthendy/agencia-cronos-adm
 
+![image](https://user-images.githubusercontent.com/94201226/147831334-aae67b8d-bddf-49e7-85f3-a87ece4d946b.png)
+
+
+
 O que vocês precisam fazer é dar continuidade ao desenvolvimento, pois precisamos de funcionalidades para criar, editar e deletar serviços da lista (o famoso CRUD).
 
 Antes de criar as funções essenciais, lembre-se que todos os cursos devem ser armazenados em uma lista única, seja em um array ou em um arquivo JSON.
