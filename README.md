@@ -23,7 +23,8 @@ https://user-images.githubusercontent.com/94201226/148304912-eaad1e84-4ae7-4a75-
 _____________________________________________________________________________________________________________________________________________________________________
 Colaboradores/ Co-workers:
 
-![image](https://user-images.githubusercontent.com/94201226/148305205-ee908373-e762-45a3-8f6b-7d24db6caf8d.png)
+![image](https://user-images.githubusercontent.com/94201226/148305378-1f5e5678-9466-4699-b362-d3ce2e7dbfae.png)
+
 
 
 
