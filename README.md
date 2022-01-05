@@ -23,7 +23,9 @@ https://user-images.githubusercontent.com/94201226/148304912-eaad1e84-4ae7-4a75-
 _____________________________________________________________________________________________________________________________________________________________________
 Colaboradores/ Co-workers:
 
-![image](https://user-images.githubusercontent.com/94201226/148147108-b254fb20-83d2-4c5c-bd71-2d8ff1b588a7.png)
+![image](https://user-images.githubusercontent.com/94201226/148305205-ee908373-e762-45a3-8f6b-7d24db6caf8d.png)
+
+
 
 Lucas Henrique Santos
 - Github: lucashsantos7
