@@ -43,7 +43,8 @@ Paulo Bruni
 
 
 
-![image](https://user-images.githubusercontent.com/94201226/148148394-c9fab172-5016-4f20-b036-f4dd4b8890d1.png)
+![image](https://user-images.githubusercontent.com/94201226/148305847-f289bc64-1048-4932-a3b8-94f113f3d36d.png)
+
 
 
 Wilciara Castilho Wertz
