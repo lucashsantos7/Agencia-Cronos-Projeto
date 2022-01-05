@@ -1,4 +1,49 @@
 # Agencia-Cronos-Projeto
+__________________________________________________________________________________________________________________________________________________________________
+Status
+Status do Projeto: quase Concluido ✔️
+
+Project Status: quase Concluded ✔️
+
+Descrição (Description)
+Descrição do Projeto: Realiza as operações de CRUD utilizando HTML, CSS e JS
+
+Project Description: Performs CRUD operations using HTML, CSS and JS
+____________________________________________________________________________________________________________________________________________________________________
+
+
+Colaboradores:
+
+![image](https://user-images.githubusercontent.com/94201226/148147108-b254fb20-83d2-4c5c-bd71-2d8ff1b588a7.png)
+
+Lucas Henrique Santos
+lucashsantos7
+
+
+
+![image](https://user-images.githubusercontent.com/94201226/148147883-f99e8b50-55f0-41f6-b18c-0680f161f031.png)
+
+
+Paulo Bruni
+paulobruni
+
+![image](https://user-images.githubusercontent.com/94201226/148148394-c9fab172-5016-4f20-b036-f4dd4b8890d1.png)
+
+
+Wilciara Castilho Wertz
+Wilciara
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+Orientações:
+
+
 Agencia Cronos Projeto
 HACKER - DESAFIO EM GRUPO
 
