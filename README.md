@@ -43,7 +43,8 @@ Paulo Bruni
 
 
 
-![image](https://user-images.githubusercontent.com/94201226/148305847-f289bc64-1048-4932-a3b8-94f113f3d36d.png)
+![image](https://user-images.githubusercontent.com/94201226/148305924-74d9d32d-203a-4933-b72c-2caa4beb300a.png)
+
 
 
 
