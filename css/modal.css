@@ -14,10 +14,10 @@
 } 
 
 .modal-content{
-    display: flex;
+    display: inline-flexbox;
     flex-direction: column;
     gap:20px;
-    width: 80%;
+    width: 30%;
     margin: 10vh auto;
     padding-bottom: 20px;
     background-color: white;
@@ -28,13 +28,13 @@
     display: flex;
     position: relative;
     justify-content: center;
-    height: 40px;
-    line-height: 40px;
+    height: 60px;
+    line-height: 60px;
     font-size: 1rem;
 }
 
 .modal-header h2{
-    color: #8ecae6;
+    color: #b9e2e4;
 }
 
 .modal-form{
@@ -78,6 +78,8 @@
     text-align: right;
     padding: 0 20px;
 }
+
+
 
 
 

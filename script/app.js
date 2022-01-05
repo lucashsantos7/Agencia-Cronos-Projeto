@@ -8,7 +8,7 @@ let btnCancelarCadastroCurso = document.querySelector('#cancelar');
 
 ////////////////////////
 /// Lista de cursos ///
-//////////////////////
+///////////////////////
 var dadosCursos =[
     {'imagem': 'novoCursoImagem',
     'titulo': 'novoCursoTitulo',
@@ -30,6 +30,15 @@ const criarCurso = () => {
     /////////////////////////
     /// Acessando inputs ///
     ///////////////////////
+    /*document.querySelector('#novo_img').addEventListener("change", function (){
+
+        console.log(document.getElementById('#novo_img'));
+
+        //const reader = new FileReader();
+
+        //reader.readAsDataURL();
+    })*/
+
     let novoCursoImagem = document.getElementById('novo_img').value;
     let novoCursoTitulo = document.getElementById('novo_titulo').value;
     let novoCursoId = document.getElementById('novo_id').value;
@@ -68,6 +77,77 @@ const criarCurso = () => {
     document.querySelector('#tb-cursos').appendChild(novoCurso);    
     document.querySelector('#form').reset();
     document.querySelector('.modal').classList.remove('active');
+}
+
+
+////////////////
+/// PRE-LOAD ///
+////////////////
+// Função para pre-carregar os arquivos que já vieram na pagina
+function preLoad() {
+
+    dadosCursos.push({
+        'imagem': 'imagens/ilustra-web.png',
+        'titulo': 'Desenvolvimento Web',
+        'id': 1,
+        'descricao' : 'Consequatur debitis ipsa numquam illum placeat quod deleniti.'
+    });
+
+    dadosCursos.push({
+        'imagem': 'imagens/ilustra-marketing.png',
+        'titulo': 'Marketing Digital',
+        'id': 2,
+        'descricao' : 'Consequatur debitis ipsa numquam illum placeat quod deleniti.'
+    });
+
+    dadosCursos.push({
+        'imagem': 'imagens/ilustra-ux.png',
+        'titulo': 'Consultoria UX',
+        'id': 3,
+        'descricao' : 'Consequatur debitis ipsa numquam illum placeat quod deleniti.'
+    });
+
+    const novoCurso1 = document.createElement('tr')
+    novoCurso1.innerHTML = `
+        <td>Desenvolvimento Web</td>
+        <td><img src="imagens/ilustra-web.png" class="curso_imagem" alt="imagem curso"/></td>
+        <td>Consequatur debitis ipsa numquam illum placeat quod deleniti.</td>                
+        <td>
+            <button class="btn btn-secondary m-1" onclick="abrirEdicaoCurso(1)">editar</button>
+            <button class="btn btn-danger m-1" onclick="deletarCurso(1)">excluir</button>
+        </td>`;
+    
+    const novoCurso2 = document.createElement('tr')
+    novoCurso2.innerHTML = `
+    <td>Marketing Digital</td>
+    <td><img src="imagens/ilustra-marketing.png" class="curso_imagem" alt="imagem curso"/></td>
+    <td>Consequatur debitis ipsa numquam illum placeat quod deleniti.</td>                
+    <td>
+        <button class="btn btn-secondary m-1" onclick="abrirEdicaoCurso(2)">editar</button>
+        <button class="btn btn-danger m-1" onclick="deletarCurso(2)">excluir</button>
+    </td>`;
+
+    const novoCurso3 = document.createElement('tr')
+    novoCurso3.innerHTML = `
+    <td>Consultoria UX</td>
+    <td><img src="imagens/ilustra-ux.png" class="curso_imagem" alt="imagem curso"/></td>
+    <td>Consequatur debitis ipsa numquam illum placeat quod deleniti.</td>                
+    <td>
+        <button class="btn btn-secondary m-1" onclick="abrirEdicaoCurso(3)">editar</button>
+        <button class="btn btn-danger m-1" onclick="deletarCurso(3)">excluir</button>
+    </td>`;
+
+    novoCurso1.classList.add(`container_curso`);
+    novoCurso1.setAttribute('id', 1);
+    document.querySelector('#tb-cursos').appendChild(novoCurso1);
+
+    novoCurso2.classList.add(`container_curso`);
+    novoCurso2.setAttribute('id', 2);
+    document.querySelector('#tb-cursos').appendChild(novoCurso2);
+
+    novoCurso3.classList.add(`container_curso`);
+    novoCurso3.setAttribute('id', 3);
+    document.querySelector('#tb-cursos').appendChild(novoCurso3);
 }
 
 const cancelarCriacaoCurso = () => {
@@ -121,3 +201,4 @@ btnCadastroCurso.addEventListener('click', cadastrarCurso);
 btnSalvarCurso.addEventListener('click', criarCurso);
 btnCancelarCadastroCurso.addEventListener('click', cancelarCriacaoCurso);
 btnSalvarEdicaoCurso.addEventListener('click', atualizarCurso);
+preLoad();
