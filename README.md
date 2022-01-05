@@ -11,13 +11,22 @@ Descrição do Projeto: Realiza as operações de CRUD utilizando HTML, CSS e JS
 Project Description: Performs CRUD operations using HTML, CSS and JS
 ____________________________________________________________________________________________________________________________________________________________________
 
+Sample:
 
-Colaboradores:
+
+
+https://user-images.githubusercontent.com/94201226/148304912-eaad1e84-4ae7-4a75-996c-03e1776ee87c.mp4
+
+
+
+
+_____________________________________________________________________________________________________________________________________________________________________
+Colaboradores/ Co-workers:
 
 ![image](https://user-images.githubusercontent.com/94201226/148147108-b254fb20-83d2-4c5c-bd71-2d8ff1b588a7.png)
 
 Lucas Henrique Santos
-lucashsantos7
+- Github: lucashsantos7
 
 
 
@@ -25,7 +34,7 @@ lucashsantos7
 
 
 Paulo Bruni
-paulobruni
+ -  Github: paulobruni
 
 
 
@@ -33,7 +42,7 @@ paulobruni
 
 
 Wilciara Castilho Wertz
-Wilciara
+ - Github: Wilciara
 
 _______________________________________________________________________________________________________________________________________________________________________
 
