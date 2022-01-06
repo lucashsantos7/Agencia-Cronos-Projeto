@@ -9,6 +9,9 @@ Descrição (Description)
 Descrição do Projeto: Realiza as operações de CRUD utilizando HTML, CSS e JS
 
 Project Description: Performs CRUD operations using HTML, CSS and JS
+
+![html-css-javascript](https://user-images.githubusercontent.com/94201226/148411464-562b90ee-6034-43f3-9b3c-b653424cf585.jpg)
+
 ____________________________________________________________________________________________________________________________________________________________________
 
 Sample:
