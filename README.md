@@ -1,4 +1,5 @@
 # Agencia-Cronos-Projeto
+
 __________________________________________________________________________________________________________________________________________________________________
 Status
 Status do Projeto: quase Concluido ✔️
@@ -23,6 +24,13 @@ https://user-images.githubusercontent.com/94201226/148304912-eaad1e84-4ae7-4a75-
 
 
 
+https://user-images.githubusercontent.com/94201226/148438278-a8600a39-3b74-4013-b4e8-46d3041ed04b.mp4
+
+
+
+
+link de acesso: https://github.com/lucashsantos7/Agencia-Cronos-Projeto
+
 _____________________________________________________________________________________________________________________________________________________________________
 Colaboradores/ Co-workers:
 
@@ -41,7 +49,7 @@ Lucas Henrique Santos
 
 
 
-Paulo Bruni
+Paulo Bruni - Responsavel pelo funcionamento do modal e seus botões.
  -  Github: paulobruni
 
 
@@ -93,17 +101,17 @@ Antes de criar as funções essenciais, lembre-se que todos os cursos devem ser 
 
 CHECKLIST DE REQUISITOS MÍNIMOS
 
-Todos os códigos deverão estar em um repositório no Github de acesso público com todos os integrantes incluídos como colaboradores..
+Todos os códigos deverão estar em um repositório no Github de acesso público com todos os integrantes incluídos como colaboradores..✔️
 
 Renderizar a página utilizando React.
 
-Ao carregar a página deve exibir a lista de serviços dinamicamente.
+Ao carregar a página deve exibir a lista de serviços dinamicamente. ✔️
 
-Ao clicar no botão adicionar novo, deve exibir o formulário de cadastro de serviço.
+Ao clicar no botão adicionar novo, deve exibir o formulário de cadastro de serviço.✔️
 
-Ao clicar no botão editar, deve exibir o formulário preenchido com os dados do serviço escolhido e guardar as alterações quando clicar no botão salvar.
+Ao clicar no botão editar, deve exibir o formulário preenchido com os dados do serviço escolhido e guardar as alterações quando clicar no botão salvar.✔️
 
-Ao clicar no botão excluir, deve remover o serviço escolhido.
+Ao clicar no botão excluir, deve remover o serviço escolhido.✔️
 
  
 
