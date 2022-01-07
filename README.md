@@ -11,6 +11,23 @@ Descrição do Projeto: Realiza as operações de CRUD utilizando HTML, CSS e JS
 Project Description: Performs CRUD operations using HTML, CSS and JS
 ____________________________________________________________________________________________________________________________________________________________________
 
+SAmple:
+
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/94201226/148563941-fb4d3760-85a1-4e7d-acd8-51a65d3ab783.mp4
+
+
+
+
+
+____________________________________________________________________________________________________________________________________________________________________
+
 
 Colaboradores:
 
