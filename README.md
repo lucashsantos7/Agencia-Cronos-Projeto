@@ -9,6 +9,27 @@ Descrição (Description)
 Descrição do Projeto: Realiza as operações de CRUD utilizando HTML, CSS e JS
 
 Project Description: Performs CRUD operations using HTML, CSS and JS
+
+
+📲 Dispositivos homologados:
+
+O site opera nas seguintes dimensões de telas:
+
+1280px
+1024px
+780px
+425px
+375px
+
+👨‍💻 Linguagens e ferramentas utilizadas:
+HTML 5
+CSS3
+JavaScript
+React
+
+
+![html-css-javascript](https://user-images.githubusercontent.com/94201226/148592672-6947c1ea-d348-4e6d-b420-c627a25b78a2.jpg)
+
 ____________________________________________________________________________________________________________________________________________________________________
 
 SAmple:
