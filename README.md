@@ -1,5 +1,4 @@
 # Agencia-Cronos-Projeto
-
 __________________________________________________________________________________________________________________________________________________________________
 Status
 Status do Projeto: quase Concluido ✔️
@@ -10,65 +9,31 @@ Descrição (Description)
 Descrição do Projeto: Realiza as operações de CRUD utilizando HTML, CSS e JS
 
 Project Description: Performs CRUD operations using HTML, CSS and JS
-
-
-
-
-
-
-
-![html-css-javascript](https://user-images.githubusercontent.com/94201226/148411464-562b90ee-6034-43f3-9b3c-b653424cf585.jpg)
-
 ____________________________________________________________________________________________________________________________________________________________________
 
-Sample:
 
+Colaboradores:
 
-
-https://user-images.githubusercontent.com/94201226/148304912-eaad1e84-4ae7-4a75-996c-03e1776ee87c.mp4
-
-
-
-
-https://user-images.githubusercontent.com/94201226/148438278-a8600a39-3b74-4013-b4e8-46d3041ed04b.mp4
-
-
-
-
-link de acesso: https://github.com/lucashsantos7/Agencia-Cronos-Projeto
-
-_____________________________________________________________________________________________________________________________________________________________________
-Colaboradores/ Co-workers:
-
-![image](https://user-images.githubusercontent.com/94201226/148305378-1f5e5678-9466-4699-b362-d3ce2e7dbfae.png)
-
-
-
+![image](https://user-images.githubusercontent.com/94201226/148147108-b254fb20-83d2-4c5c-bd71-2d8ff1b588a7.png)
 
 Lucas Henrique Santos
-- Github: lucashsantos7
+lucashsantos7
 
 
 
-![image](https://user-images.githubusercontent.com/94201226/148305615-d8382fc9-d5b5-4dac-9c56-3f0977cfb627.png)
+![image](https://user-images.githubusercontent.com/94201226/148148707-38aa7e8d-d422-4bd9-9aae-9d352574ce59.png)
+
+
+Paulo Bruni
+paulobruni
 
 
 
-
-Paulo Bruni - Responsavel pelo funcionamento do modal e seus botões.
- -  Github: paulobruni
-
-
-
-![image](https://user-images.githubusercontent.com/94201226/148306919-694c2a69-384f-4264-8040-a74525013d86.png)
-
-
-
-
+![image](https://user-images.githubusercontent.com/94201226/148148394-c9fab172-5016-4f20-b036-f4dd4b8890d1.png)
 
 
 Wilciara Castilho Wertz
- - Github: Wilciara
+Wilciara
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -80,22 +45,6 @@ ________________________________________________________________________________
 
 Orientações:
 
-
-📲 Dispositivos homologados:
-
-O site opera nas seguintes dimensões de telas:
-
-1280px
-1024px
-780px
-425px
-375px
-
-👨‍💻 Linguagens e ferramentas utilizadas:
-HTML 5
-CSS3
-JavaScript
-React
 
 Agencia Cronos Projeto
 HACKER - DESAFIO EM GRUPO
@@ -123,17 +72,17 @@ Antes de criar as funções essenciais, lembre-se que todos os cursos devem ser 
 
 CHECKLIST DE REQUISITOS MÍNIMOS
 
-Todos os códigos deverão estar em um repositório no Github de acesso público com todos os integrantes incluídos como colaboradores..✔️
+Todos os códigos deverão estar em um repositório no Github de acesso público com todos os integrantes incluídos como colaboradores..
 
 Renderizar a página utilizando React.
 
-Ao carregar a página deve exibir a lista de serviços dinamicamente. ✔️
+Ao carregar a página deve exibir a lista de serviços dinamicamente.
 
-Ao clicar no botão adicionar novo, deve exibir o formulário de cadastro de serviço.✔️
+Ao clicar no botão adicionar novo, deve exibir o formulário de cadastro de serviço.
 
-Ao clicar no botão editar, deve exibir o formulário preenchido com os dados do serviço escolhido e guardar as alterações quando clicar no botão salvar.✔️
+Ao clicar no botão editar, deve exibir o formulário preenchido com os dados do serviço escolhido e guardar as alterações quando clicar no botão salvar.
 
-Ao clicar no botão excluir, deve remover o serviço escolhido.✔️
+Ao clicar no botão excluir, deve remover o serviço escolhido.
 
  
 
